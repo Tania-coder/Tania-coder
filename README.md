@@ -40,7 +40,7 @@ pip install seismograph-probe
 **AI Reliability · LLM Observability · AI Infrastructure · MLOps · Backend** — remote or Aarhus, DK.
 
 ---
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-tania--radchenko-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/tania-radchenko)
+[![LinkedIn](https://www.linkedin.com/in/tania-radchenko-dev/)]
 [![Twitter](https://img.shields.io/badge/Twitter-@tatyanti-1DA1F2?style=flat&logo=twitter)](https://x.com/tatyanti)
 [![GitHub](https://img.shields.io/badge/GitHub-Tania--coder-181717?style=flat&logo=github)](https://github.com/Tania-coder)
 [![SEISMOGRAPH](https://img.shields.io/badge/Project-SEISMOGRAPH-00c896?style=flat)](https://github.com/Tania-coder/SEISMOGRAPH)
